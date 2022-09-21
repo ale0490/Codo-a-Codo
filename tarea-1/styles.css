@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: grey;
+    padding-bottom: 100px;
+}
+.header{
+    margin-left: 150px;
+}
+h1{
+    color: white;
+    font-weight: lighter;
+    padding-bottom: 15px;
+}
+a {
+    padding-bottom: 10px;
+    padding-right: 5px;
+}
+section{
+    margin: 0 150px;
+}
+footer {
+    background-color: grey;
+    padding-bottom: 30px;
+}
+.p-footer {
+    margin-left: 150px;
+}
